@@ -1,0 +1,14 @@
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\bin\Debug\net8.0\InventorySystemInteractive.exe
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\bin\Debug\net8.0\InventorySystemInteractive.deps.json
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\bin\Debug\net8.0\InventorySystemInteractive.runtimeconfig.json
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\bin\Debug\net8.0\InventorySystemInteractive.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\bin\Debug\net8.0\InventorySystemInteractive.pdb
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\InventorySystemInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\InventorySystemInteractive.AssemblyInfoInputs.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\InventorySystemInteractive.AssemblyInfo.cs
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\InventorySystemInteractive.csproj.CoreCompileInputs.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\InventorySystemInteractive.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\refint\InventorySystemInteractive.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\InventorySystemInteractive.pdb
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\InventorySystemInteractive.genruntimeconfig.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\InventorySystemInteractive\obj\Debug\net8.0\ref\InventorySystemInteractive.dll
