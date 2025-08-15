@@ -1,0 +1,14 @@
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.AssemblyInfo.cs
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.exe
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.deps.json
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.runtimeconfig.json
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\bin\Debug\net8.0\WarehouseInventory.pdb
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\refint\WarehouseInventory.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.pdb
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\WarehouseInventory.genruntimeconfig.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\WarehouseInventory\obj\Debug\net8.0\ref\WarehouseInventory.dll
