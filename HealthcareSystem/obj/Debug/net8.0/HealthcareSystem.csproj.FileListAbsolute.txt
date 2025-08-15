@@ -1,0 +1,14 @@
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.exe
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.deps.json
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.runtimeconfig.json
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\refint\HealthcareSystem.dll
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\XorlaliName\Desktop\dcit318-assignment3-11256293\HealthcareSystem\obj\Debug\net8.0\ref\HealthcareSystem.dll
